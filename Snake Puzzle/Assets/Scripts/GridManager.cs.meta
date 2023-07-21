@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f292e8f04fa71bf42aba3cde0c0beec4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _player: {fileID: 9188217878187536653, guid: 4618cc44c289f054993f504b42697a99, type: 3}
+  - _normalTile: {fileID: 4346991112285304400, guid: 290d0fa1571e0f146b5941affe874e49, type: 3}
+  - _wallTile: {fileID: 2322954272413755222, guid: 67c5962f443548740a1582dd88035a00, type: 3}
+  - _cam: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

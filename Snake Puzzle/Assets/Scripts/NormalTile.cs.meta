@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1e639085f4244fe499d3a25036f54df3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - normalTileCollider: {instanceID: 0}
+  - _spriteRenderer: {instanceID: 0}
+  - _gridManager: {fileID: 8783621961363001048, guid: e7fd1e2534aec5440a835cdf7cc065ac, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
